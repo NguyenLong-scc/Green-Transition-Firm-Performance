@@ -1,0 +1,7 @@
+pandas
+requests
+pymupdf
+pytesseract
+pillow
+scikit-learn
+openpyxl

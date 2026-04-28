@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+cache_text/
+
+green_transition_scores_budget_vi.csv
+green_transition_scores_budget_vi.xlsx
+green_transition_indicator_details_budget_vi.csv
+green_transition_indicator_details_budget_vi.xlsx
+green_transition_errors_budget_vi.csv
+
+green_transition_scores_budget_vi_partial.csv
+green_transition_indicator_details_budget_vi_partial.csv
+green_transition_errors_budget_vi_partial.csv

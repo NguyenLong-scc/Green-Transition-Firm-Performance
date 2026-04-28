@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+dt_results.csv
+dt_results.xlsx
+dt_validation.csv
+dt_validation.xlsx
+dt_results_partial.csv
+dt_validation_partial.csv
+progress.json
+logs/.DS_Store
+.DS_Store
